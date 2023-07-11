@@ -131,3 +131,7 @@ Inside backend folder:
 
 - `npm run dev`: Starts backend using nodemon.
 - `npm start`: Starts backend without nodemon.
+
+## Contact
+- Email: diptanusaha2001@gmail.com
+- Linkedin: www.linkedin.com/in/diptanu-saha-7464ab200
